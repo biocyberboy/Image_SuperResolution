@@ -1,4 +1,3 @@
-Image Super Resolution using Autoencoder
 This is a project on Image Super Resolution using Autoencoder. It is implemented using TensorFlow and Keras libraries in Python.
 
 1.  Introduction
